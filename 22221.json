@@ -1,38 +1,42 @@
-[
-  {
-    "__metadata": {
-      "uri": "https://example.com/",
-      "type": "sapbyd.QueryResult"
-    },
-    "CADDR_CMMNCTN_PREF_LANGU_CODE": "JA",
-    "CBANK_ACCOUNT_ID": "",
-    "CBP_UUID": "AC1JPxxxxx",
-    "CCASH_DSCNT_TERM": "Z111",
-    "CCITY_NAME": "中野区1-1-1",
-    "CCOUNTRY_CODE": "JP",
-    "CCURRENCY_CODE": "JPY",
-    "CDISTRICT_NAME": "",
-    "CDIST_CHANNEL": "01",
-    "CEMAIL_URI": "",
-    "CFAX_NR": "",
-    "CFRMTD_PSTL_ADDR": "東京都中野区",
-    "CPHONE_NR": "",
-    "CREGION_CODE": "13",
-    "CSALES_ORGANISATION_UUID_CONT": "A001",
-    "CSTATUS": "2",
-    "CSTREET_POSTAL": "164-0001",
-    "CWEB_URI": "",
-    "CYDKQI8B8Y_10B348B440": "",
-    "CYDKQI8B8Y_60CC0153F2": "",
-    "CYDKQI8B8Y_853E015A33": "",
-    "Cs1ANsA588B247C6C441F": "Salesforce",
-    "TADDR_CMMNCTN_PREF_LANGU_CODE": "日本語",
-    "TBP_UUID": "xxx工業株式会社",
-    "TCASH_DSCNT_TERM": "末締め 翌月 末払い",
-    "TCOUNTRY_CODE": "日本",
-    "TDIST_CHANNEL": "直接販売",
-    "TREGION_CODE": "東京都",
-    "TSALES_ORGANISATION_UUID_CONT": "Industrial(組織)",
-    "TSTATUS": "有効"
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "uri": "https://example.com/",
+          "type": "sapbyd.QueryResult"
+        },
+        "CADDR_CMMNCTN_PREF_LANGU_CODE": "JA",
+        "CBANK_ACCOUNT_ID": "",
+        "CBP_UUID": "AC1JPxxxxx",
+        "CCASH_DSCNT_TERM": "Z111",
+        "CCITY_NAME": "中野区1-1-1",
+        "CCOUNTRY_CODE": "JP",
+        "CCURRENCY_CODE": "JPY",
+        "CDISTRICT_NAME": "",
+        "CDIST_CHANNEL": "01",
+        "CEMAIL_URI": "",
+        "CFAX_NR": "",
+        "CFRMTD_PSTL_ADDR": "東京都中野区",
+        "CPHONE_NR": "",
+        "CREGION_CODE": "13",
+        "CSALES_ORGANISATION_UUID_CONT": "A001",
+        "CSTATUS": "2",
+        "CSTREET_POSTAL": "164-0001",
+        "CWEB_URI": "",
+        "CYDKQI8B8Y_10B348B440": "",
+        "CYDKQI8B8Y_60CC0153F2": "",
+        "CYDKQI8B8Y_853E015A33": "",
+        "Cs1ANsA588B247C6C441F": "Salesforce",
+        "TADDR_CMMNCTN_PREF_LANGU_CODE": "日本語",
+        "TBP_UUID": "xxx工業株式会社",
+        "TCASH_DSCNT_TERM": "末締め 翌月 末払い",
+        "TCOUNTRY_CODE": "日本",
+        "TDIST_CHANNEL": "直接販売",
+        "TREGION_CODE": "東京都",
+        "TSALES_ORGANISATION_UUID_CONT": "Industrial(組織)",
+        "TSTATUS": "有効"
+      }
+    ]
   }
-]
+}
