@@ -2,8 +2,8 @@
   "Result": [
     {
       "id": 1,
-      "age": 25,
-      "name": "John"
+      "name": "John",
+      "age": 25
     },
     {
       "id": 2,
